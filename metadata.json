@@ -1,0 +1,6 @@
+{
+  "name": "Prime Web Works",
+  "description": "Prime Web Works creates modern, responsive websites for businesses, including custom web development, WordPress, Shopify, and conversion-focused landing pages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
